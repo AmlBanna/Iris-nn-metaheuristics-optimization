@@ -65,29 +65,4 @@ pip install -r requirements.txt
 | Firefly     | 100%          | `[-1.89, 1.13, 8.06]`            |
 | OBC-WOA     | 96%           | `[-1, 1, 23.67]`                 |
 
-## 📂 Project Structure
 
-```
-📁 iris-nn-metaheuristics-optimization/
-├── neural_net_iris_optimizer.ipynb    # Main Notebook
-├── optimization_results.docx          # Output file with comparison
-├── README.md
-└── requirements.txt
-```
-
-## 👤 Author
-
-- Aml El Banna
-
-## 📌 Future Work
-
-- Add visualization for convergence curves
-- Integrate additional benchmark datasets
-- Build Gradio demo for model testing
-
-## ✅ How to Run
-
-1. Clone the repo
-2. Install dependencies
-3. Run the notebook
-4. View results in `optimization_results.docx`
